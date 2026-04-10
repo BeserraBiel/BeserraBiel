@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=linux,windows,python,c,python,html,js,css,mysql)
+![My Skills](https://skillicons.dev/icons?i=linux,windows,python,c,python,html,js,css,sql)
 
 ---
 
