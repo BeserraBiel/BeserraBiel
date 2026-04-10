@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou o Gabriel!
+# Desenvolvimentos!
 
 ---
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeserraBiel&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BeserraBiel=BeserraBiel&layout=donut)
 
 ---
 
 ## 🚀 Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=linux,windows,python,c,python,html,js,css,sql)
+![My Skills](https://skillicons.dev/icons?i=linux,windows,python,c,python,html,js,css,mysql)
 
 ---
 
