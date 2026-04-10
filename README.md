@@ -7,7 +7,7 @@
 ## 💻 Tecnologias
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,tensorflow,pandas,sklearn,azure" />
+  <img src="https://skillicons.dev/icons?i=js,python,mysql,c,linux" />
 </p>
 
 ## 🔗 Links
