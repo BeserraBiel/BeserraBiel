@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,html,js,mysql,tensorflow,azure)
+![My Skills](https://skillicons.dev/icons?i=python,c,python,html,js,css,mysql)
 
 ---
 
