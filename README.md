@@ -5,15 +5,15 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default&langs_count=8" 
       media="(prefers-color-scheme: light)" 
     />
     <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=tokyonight" 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=tokyonight&langs_count=8" 
       media="(prefers-color-scheme: dark)" 
     />
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default&langs_count=8" 
       alt="Linguagens mais usadas no GitHub de BeserraBiel" 
     />
   </picture>
