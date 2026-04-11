@@ -18,6 +18,7 @@
     />
   </picture>
 </p>
+
 ## 💻 Tecnologias
 ---
 <p align="center">
