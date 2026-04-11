@@ -1,12 +1,12 @@
 <div align="center">
   <h3>Desenvolvedor de Software | IA & Machine Learning</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeserraBiel&layout=donut&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeserraBiel&layout=donut&theme=dark&hide_border=true&langs_count=5" alt="Top Langs" />
 </div>
 
 ## 💻 Tecnologias
 ---
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,mysql,c,linux" />
 </p>
 
@@ -18,4 +18,3 @@
 
 ---
 
-## 📌 Confira os projetos fixados!
