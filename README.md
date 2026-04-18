@@ -4,10 +4,7 @@
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default&langs_count=8" 
-      media="(prefers-color-scheme: light)" 
-    />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeserraBiel&layout=compact&langs_count=7&theme=dracula" />
     <source 
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=tokyonight&langs_count=8" 
       media="(prefers-color-scheme: dark)" 
