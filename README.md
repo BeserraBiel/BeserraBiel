@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor de Software | IA & Machine Learning</h3>
+<h3 align="center">Desenvolvedor de Software </h3>
 
 <br/>
 
