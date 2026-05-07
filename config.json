@@ -16,7 +16,7 @@
         "border_color": "#101010"
     },
     "disable_languages": [
-        "HTML","CSS"
+        "CSS"
     ],
     "languages": [
         {
