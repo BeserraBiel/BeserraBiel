@@ -4,7 +4,18 @@
 
 <p align="center">
   <picture>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeserraBiel&layout=compact&langs_count=7&theme=dracula" />
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
+      alt="Linguagens mais usadas no GitHub de BeserraBiel" 
+    />
   </picture>
 </p>
 
