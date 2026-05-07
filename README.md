@@ -2,22 +2,12 @@
 
 <br />
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
-      media="(prefers-color-scheme: light)" 
-    />
-    <source 
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeserraBiel&theme=default" 
-      alt="Linguagens mais usadas no GitHub de BeserraBiel" 
-    />
-  </picture>
-</p>
+<a href="https://github.com/BeserraBiel/github-used-languages" target="_blank">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/caiolr?config=config.json&theme=dark">
+    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/BeserraBiel?config=config.json">
+</picture>
+<a>
 
 ## 💻 Tecnologias
 ---
