@@ -1,15 +1,11 @@
 <h3 align="center">Desenvolvedor de Software</h3>
 
-<br />
+<div align="center">
+  <img src="https://github-used-languages.vercel.app/BeserraBiel?config=config.json&theme=dark" alt="Linguagens" />
 
-<a href="https://github.com/BeserraBiel/github-used-languages" target="_blank">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/caiolr?config=config.json&theme=dark">
-    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/BeserraBiel?config=config.json">
-</picture>
-<a>
+  <br />
 
-## 💻 Tecnologias
+  ## 💻 Tecnologias
 ---
 
 <p align="center">
